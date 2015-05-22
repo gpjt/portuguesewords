@@ -20,27 +20,31 @@
     </head>
 
     <body ng-app="ngWordsServices" ng-controller="ngWordsServicesController">
-        <h1>The top 1,000 Portuguese words, annotated</h1>
 
-        <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+        <div class="container">
 
-            <div ng-repeat="word in words" class="panel panel-default">
-                <div class="panel-heading" role="tab" id="heading// word.id //">
-                    <h4 class="panel-title">
-                        <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse// word.id //" aria-expanded="true" aria-controls="collapse// word.id //">
-                            // word.portuguese //
-                        </a>
-                    </h4>
-                </div>
-                <div id="collapse// word.id //" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading// word.id //">
-                    <div class="panel-body">
-                        // word.details //
+            <h1>The top 1,000 Portuguese words, annotated</h1>
+
+            <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+
+                <div ng-repeat="word in words" class="panel panel-default">
+                    <div class="panel-heading" role="tab" id="heading// word.id //">
+                        <h4 class="panel-title">
+                            <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse// word.id //" aria-expanded="true" aria-controls="collapse// word.id //">
+                                // word.portuguese //
+                            </a>
+                        </h4>
+                    </div>
+                    <div id="collapse// word.id //" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading// word.id //">
+                        <div class="panel-body">
+                            // word.details //
+                        </div>
                     </div>
                 </div>
+
             </div>
 
         </div>
-
 
 
         <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
