@@ -598,7 +598,6 @@
 39954	terem
 39944	Gomes
 39915	metros
-39893	*
 39774	oposição
 39725	deixar
 39688	domingo
@@ -820,7 +819,6 @@
 30629	filhos
 30612	comum
 30583	internacionais
-30579	&
 30542	terão
 30521	próximos
 30507	prisão
@@ -1040,7 +1038,6 @@
 24248	companhia
 24180	filha
 24172	greve
-24158	
 24130	equipas
 24081	encontra
 24072	doença
@@ -1266,7 +1263,6 @@
 20200	inquérito
 20189	francesa
 20179	desemprego
-20176	1º
 20168	dada
 20152	Bolsa
 20149	general
@@ -1381,7 +1377,6 @@
 18716	Marcelo
 18701	margem
 18671	som
-18671	km
 18669	financeira
 18663	soldados
 18656	cabo
@@ -1464,7 +1459,6 @@
 17613	chegaram
 17605	haverá
 17598	dimensão
-17597	&amp;
 17587	planos
 17584	liderança
 17562	estrangeiro
