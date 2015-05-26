@@ -62,12 +62,18 @@
                 [
                     "$resource",
                     function($resource) {
-                        return $resource("/words/", {}, {
-                            query: {
-                                method:'GET',
-                                isArray: true
+                        return $resource(
+                            "/words/", {},
+                            {
+                                query: {
+                                    method:'GET',
+                                    isArray: true
+                                }
+                            },
+                            {
+                                stripTrailingSlashes: false
                             }
-                        })
+                        )
                     }
                 ]
             );
