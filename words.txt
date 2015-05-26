@@ -439,7 +439,6 @@
 52843	'tá
 52602	informação
 52577	continua
-52450	US$
 51811	tinham
 51673	prazo
 51489	principais
@@ -505,7 +504,6 @@
 46527	manhã
 46513	Ferreira
 46499	preços
-46483	the
 46250	entrada
 46188	necessidade
 46058	oito
@@ -528,7 +526,6 @@
 44821	intervenção
 44770	Abril
 44702	Coimbra
-44649	for
 44515	série
 44476	título
 44428	candidato
@@ -679,7 +676,6 @@
 36117	visita
 36114	claro
 36051	francês
-36007	II
 35972	Braga
 35959	orçamento
 35948	mãe
@@ -846,7 +842,6 @@
 29376	votos
 29283	alguém
 29272	Igreja
-29141	I
 29109	mostra
 29096	nove
 29070	fácil
@@ -1025,7 +1020,6 @@
 24626	peso
 24495	acima
 24422	Cardoso
-24408	Clinton
 24406	europeus
 24377	realizar
 24374	refere
@@ -1059,7 +1053,6 @@
 23796	ficaram
 23763	mortos
 23711	números
-23684	nº
 23676	controlo
 23675	mesa
 23664	actividades
@@ -1229,7 +1222,6 @@
 20727	quis
 20711	revisão
 20710	inglês
-20691	of
 20663	fogo
 20650	pressão
 20609	ouro
@@ -1333,7 +1325,6 @@
 19292	entender
 19292	Castelo
 19265	consciência
-19252	time
 19214	mandato
 19209	secretário-geral
 19203	financeiro
