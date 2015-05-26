@@ -1433,7 +1433,6 @@
 18098	órgãos
 18083	cem
 18070	leitura
-18068	
 18044	garante
 18022	manutenção
 18021	rei
