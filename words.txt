@@ -1,15 +1,11 @@
-21169503	,
 12994054	de
-11290361	.
 8910236	a
 7076166	que
 6600144	o
 6429298	e
 4815138	do
 4559127	da
-3217399	«
 3131734	em
-2988135	»
 2586253	para
 2513923	um
 2430924	os
@@ -23,9 +19,6 @@
 1731031	por
 1663449	se
 1577623	as
-1441671	--
-1428580	)
-1407053	(
 1399484	O
 1305019	ao
 1241569	A
@@ -33,19 +26,16 @@
 1185559	à
 1109708	das
 1006326	como
-973991	:
 759754	foi
 660243	ser
 630892	sua
 619029	ou
 581830	mas
 569097	pelo
-548997	;
 546275	seu
 534943	pela
 528164	já
 503132	nos
-465659	?
 457138	anos
 444559	entre
 437218	sobre
@@ -53,7 +43,6 @@
 422222	tem
 419456	também
 405372	são
-405010	"
 400235	aos
 393308	Os
 391874	E
@@ -65,11 +54,9 @@
 333231	até
 330591	Mas
 326618	nas
-318658	...
 317530	dois
 316853	ontem
 312916	mesmo
-311394	!
 306744	ano
 298070	sem
 293022	quando
@@ -144,13 +131,11 @@
 161539	sido
 160653	estão
 158864	me
-157659	/
 157470	dias
 156968	forma
 156817	qualquer
 156719	durante
 156520	maior
-156098	%
 155491	tinha
 154126	José
 154095	desde
@@ -159,14 +144,12 @@
 150770	Paulo
 150160	têm
 148723	vida
-147033	`
 145884	alguns
 145404	Porto
 145039	trabalho
 144743	cerca
 144618	cada
 144474	política
-143912	'
 140336	final
 140181	lado
 138007	Por
@@ -238,7 +221,6 @@
 96507	meses
 95851	dar
 95517	exemplo
-94722	1
 93622	Como
 93362	algumas
 93257	faz
@@ -259,7 +241,6 @@
 88648	projecto
 88591	tal
 88534	questão
-88089	</li>
 87833	momento
 87780	programa
 87764	mês
@@ -267,7 +248,6 @@
 87514	terá
 86174	minha
 86057	fora
-85911	<li>
 85780	Foi
 85753	frente
 85232	essa
@@ -276,7 +256,6 @@
 84729	eles
 84701	meu
 84321	muitos
-83967	20
 83884	sistema
 83667	problemas
 83451	mesma
@@ -319,7 +298,6 @@
 75910	Estados
 75887	maioria
 75708	Maria
-75448	30
 75051	Há
 74942	último
 74929	sentido
@@ -336,7 +314,6 @@
 72958	República
 72845	Ao
 72833	Esta
-72795	2
 72181	zona
 72002	sendo
 71822	portuguesa
@@ -351,7 +328,6 @@
 70784	PS
 70656	Quando
 70596	reunião
-70363	15
 69883	Ministério
 69863	portugueses
 69820	Este
@@ -418,12 +394,10 @@
 60062	norte-americano
 59466	segurança
 59312	Luís
-59154	10
 59118	volta
 58859	produção
 58739	total
 58717	actual
-58708	25
 58307	resultados
 58298	Costa
 57914	pública
@@ -449,7 +423,6 @@
 55980	principal
 55854	época
 55802	mal
-55553	50
 55497	ninguém
 55299	sociedade
 55269	União
@@ -478,11 +451,9 @@
 53015	população
 52892	Nova
 52843	'tá
-52747	3
 52602	informação
 52577	continua
 52450	US$
-52327	12
 51811	tinham
 51673	prazo
 51489	principais
@@ -555,7 +526,6 @@
 46423	Até
 46250	entrada
 46188	necessidade
-46141	40
 46058	oito
 46028	Municipal
 45950	ficar
@@ -576,7 +546,6 @@
 45001	formação
 44940	saúde
 44821	intervenção
-44809	5
 44770	Abril
 44702	Coimbra
 44649	for
@@ -610,7 +579,6 @@
 42747	iniciativa
 42673	povo
 42400	primeiro-ministro
-42155	4
 42145	texto
 42109	conseguiu
 42083	resposta
@@ -676,9 +644,7 @@
 39447	respeito
 39438	lhes
 39396	esteve
-39391	60
 39353	Do
-39302	18
 39276	amanhã
 39248	locais
 39228	trabalhos
@@ -688,7 +654,6 @@
 38923	preço
 38813	pretende
 38800	Partido
-38773	16
 38770	chefe
 38767	concelho
 38677	uns
@@ -735,7 +700,6 @@
 37175	realidade
 37056	Ainda
 37048	Mundial
-37024	14
 36991	exposição
 36934	filho
 36879	simples
@@ -749,7 +713,6 @@
 36545	banco
 36501	origem
 36438	risco
-36424	11
 36402	tema
 36340	cultura
 36316	escola
@@ -786,7 +749,6 @@
 35172	alunos
 35153	razões
 35064	Ou
-35064	1993
 35053	nomeadamente
 34964	sala
 34949	Outubro
@@ -799,7 +761,6 @@
 34430	seguinte
 34405	data
 34386	áreas
-34374	13
 34364	Santa
 34347	sábado
 34345	militares
@@ -814,15 +775,12 @@
 33939	carta
 33901	Isto
 33898	sejam
-33895	24
 33868	manter
 33827	encontrar
 33774	serem
 33768	prática
-33717	1992
 33689	resto
 33644	recursos
-33643	17
 33605	senhor
 33578	vir
 33509	Cavaco
@@ -849,12 +807,10 @@
 32867	Casa
 32780	declarações
 32777	sei
-32749	100
 32708	propostas
 32685	nenhuma
 32672	presente
 32671	taxas
-32635	1994
 32634	dificuldades
 32618	continuar
 32614	porta
@@ -878,7 +834,6 @@
 32072	discurso
 32051	seguir
 32026	modelo
-32021	80
 32001	luz
 31997	negociações
 31922	Saúde
@@ -893,7 +848,6 @@
 31604	elas
 31590	cargo
 31562	Teatro
-31549	6
 31544	filmes
 31532	Internacional
 31484	fonte
@@ -902,7 +856,6 @@
 31405	levar
 31382	sair
 31358	comunicação
-31314	70
 31124	projectos
 31058	ganhar
 31038	jogador
@@ -953,7 +906,6 @@
 29287	entretanto
 29283	alguém
 29272	Igreja
-29193	\>
 29150	Isso
 29141	I
 29109	mostra
@@ -966,7 +918,6 @@
 29009	Porque
 28977	contas
 28962	ONU
-28955	1991
 28946	contrato
 28894	coração
 28859	irá
@@ -1010,7 +961,6 @@
 28057	âmbito
 28048	hipótese
 27952	saída
-27905	8
 27880	tratamento
 27757	comunidade
 27740	cultural
@@ -1024,7 +974,6 @@
 27621	actualmente
 27609	armas
 27591	Eduardo
-27591	22
 27577	te
 27557	imagens
 27557	aquilo
@@ -1034,11 +983,9 @@
 27527	bola
 27434	velho
 27389	Real
-27371	7
 27321	nesse
 27298	livros
 27268	deveria
-27157	19
 27132	voltou
 27129	crime
 27125	Almeida
@@ -1052,7 +999,6 @@
 26870	Grupo
 26833	esquerda
 26785	direita
-26783	21
 26773	investigação
 26758	lugares
 26753	Londres
@@ -1060,7 +1006,6 @@
 26726	Durante
 26704	viu
 26689	Alberto
-26678	1995
 26674	professores
 26652	Santo
 26650	uso
@@ -1150,14 +1095,10 @@
 24890	passo
 24852	cidades
 24830	consumo
-24829	200
 24803	rio
 24795	alemão
 24765	Polícia
 24763	fundos
-24757	90
-24747	<personagem>
-24747	</personagem>
 24703	pais
 24690	restantes
 24678	dúvidas
@@ -1167,12 +1108,9 @@
 24626	peso
 24626	Mesmo
 24495	acima
-24462	23
-24432	1990
 24422	Cardoso
 24408	Clinton
 24406	europeus
-24383	
 24377	realizar
 24374	refere
 24365	Segurança
@@ -1259,7 +1197,6 @@
 23155	acontece
 23112	Nuno
 23104	daquela
-23099	\<
 23086	títulos
 23033	pior
 22999	combate
@@ -1277,8 +1214,6 @@
 22761	públicas
 22754	confiança
 22728	volume
-22719	28
-22692	9
 22686	fazendo
 22682	entrou
 22682	aumentar
@@ -1336,7 +1271,6 @@
 21951	unidade
 21944	expressão
 21942	máximo
-21934	27
 21932	jornada
 21928	continuam
 21925	câmara
@@ -1349,7 +1283,6 @@
 21826	nessa
 21796	processos
 21792	regresso
-21790	500
 21756	década
 21755	torno
 21719	Washington
@@ -1361,7 +1294,6 @@
 21658	hospital
 21646	ausência
 21630	Castro
-21627	26
 21599	Joaquim
 21592	vítimas
 21590	Enquanto
@@ -1434,7 +1366,6 @@
 20414	obter
 20410	juros
 20400	Taça
-20394	1996
 20388	Fernandes
 20382	agentes
 20364	representa
@@ -1495,7 +1426,6 @@
 19634	perigo
 19634	igual
 19630	ganhou
-19618	300
 19617	dívida
 19609	exterior
 19591	Mendes
@@ -1506,7 +1436,6 @@
 19549	mau
 19518	lançamento
 19502	comportamento
-19496	31
 19494	destino
 19480	Defesa
 19469	Lima
@@ -1537,7 +1466,6 @@
 19142	dólar
 19116	ideias
 19115	Vale
-19110	1989
 19105	membro
 19092	diretor
 19076	apresentou
@@ -1578,7 +1506,6 @@
 18716	Marcelo
 18701	margem
 18686	Está
-18681	29
 18671	som
 18671	km
 18669	financeira
@@ -1603,13 +1530,11 @@
 18347	marido
 18338	Vítor
 18336	acabar
-18336	21h30
 18330	aspectos
 18317	instalação
 18273	Pois
 18271	precisamente
 18263	estudos
-18259	35
 18251	bens
 18249	Esse
 18245	nossas
@@ -1773,10 +1698,8 @@
 16474	ilha
 16473	distância
 16446	níveis
-16435	94
 16422	finais
 16416	Bruxelas
-16407	1997
 16403	Às
 16392	freguesia
 16392	acto
@@ -1958,8 +1881,6 @@
 14920	características
 14915	Outro
 14902	resistência
-14898	45
-14896	400
 14877	clara
 14875	aberta
 14874	sistemas
