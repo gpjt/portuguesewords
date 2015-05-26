@@ -4,6 +4,22 @@ from flask import Flask, render_template, Response
 app = Flask(__name__)
 
 
+with open("/home/portuguesewords/mysite/words.txt", "r") as f:
+    words_str = f.read()
+
+words = []
+for id, word_line in enumerate(words_str.split("\n")):
+    if word_line == "":
+        continue
+    freq_str, word = word_line.split("\t")
+    freq = int(freq_str)
+    words.append({
+        "id": id,
+        "word": word,
+        "details": "Count in corpus: {}".format(freq)
+    })
+
+
 
 @app.route("/")
 def index():
@@ -12,21 +28,4 @@ def index():
 
 @app.route("/words/")
 def words_collection():
-    data = [
-        {
-            "id": "1",
-            "portuguese": "palavra 1",
-            "details": "The details for the first word",
-        },
-        {
-            "id": "2",
-            "portuguese": "palavra 2",
-            "details": "The details for the second word",
-        },
-        {
-            "id": "3",
-            "portuguese": "palavra 3",
-            "details": "The details for the third word",
-        }
-    ]
-    return Response(json.dumps(data),  mimetype='application/json')
+    return Response(json.dumps(words),  mimetype='application/json')
