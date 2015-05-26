@@ -1,15 +1,11 @@
-,
 de
-.
 a
 que
 o
 e
 do
 da
-«
 em
-»
 para
 um
 os
@@ -23,9 +19,6 @@ dos
 por
 se
 as
---
-)
-(
 O
 ao
 A
@@ -33,19 +26,16 @@ mais
 à
 das
 como
-:
 foi
 ser
 sua
 ou
 mas
 pelo
-;
 seu
 pela
 já
 nos
-?
 anos
 entre
 sobre
@@ -53,7 +43,6 @@ ainda
 tem
 também
 são
-"
 aos
 Os
 E
@@ -65,11 +54,9 @@ há
 até
 Mas
 nas
-...
 dois
 ontem
 mesmo
-!
 ano
 sem
 quando
@@ -144,13 +131,11 @@ primeira
 sido
 estão
 me
-/
 dias
 forma
 qualquer
 durante
 maior
-%
 tinha
 José
 desde
@@ -159,14 +144,12 @@ novo
 Paulo
 têm
 vida
-`
 alguns
 Porto
 trabalho
 cerca
 cada
 política
-'
 final
 lado
 Por
@@ -238,7 +221,6 @@ noite
 meses
 dar
 exemplo
-1
 Como
 algumas
 faz
@@ -259,7 +241,6 @@ Silva
 projecto
 tal
 questão
-</li>
 momento
 programa
 mês
@@ -267,7 +248,6 @@ além
 terá
 minha
 fora
-<li>
 Foi
 frente
 essa
@@ -276,7 +256,6 @@ pontos
 eles
 meu
 muitos
-20
 sistema
 problemas
 mesma
@@ -319,7 +298,6 @@ lei
 Estados
 maioria
 Maria
-30
 Há
 último
 sentido
@@ -336,7 +314,6 @@ decisão
 República
 Ao
 Esta
-2
 zona
 sendo
 portuguesa
@@ -351,7 +328,6 @@ direito
 PS
 Quando
 reunião
-15
 Ministério
 portugueses
 Este
@@ -409,7 +385,6 @@ Conselho
 saber
 eram
 hora
-R$
 Ele
 Santos
 serviços
@@ -418,12 +393,10 @@ França
 norte-americano
 segurança
 Luís
-10
 volta
 produção
 total
 actual
-25
 resultados
 Costa
 pública
@@ -449,7 +422,6 @@ geral
 principal
 época
 mal
-50
 ninguém
 sociedade
 União
@@ -478,11 +450,8 @@ resultado
 população
 Nova
 'tá
-3
 informação
 continua
-US$
-12
 tinham
 prazo
 principais
@@ -555,7 +524,6 @@ preços
 Até
 entrada
 necessidade
-40
 oito
 Municipal
 ficar
@@ -576,7 +544,6 @@ olhos
 formação
 saúde
 intervenção
-5
 Abril
 Coimbra
 for
@@ -610,7 +577,6 @@ possibilidade
 iniciativa
 povo
 primeiro-ministro
-4
 texto
 conseguiu
 resposta
@@ -659,7 +625,6 @@ grupos
 terem
 Gomes
 metros
-*
 superior
 oposição
 deixar
@@ -676,9 +641,7 @@ mãos
 respeito
 lhes
 esteve
-60
 Do
-18
 amanhã
 locais
 trabalhos
@@ -688,7 +651,6 @@ Rui
 preço
 pretende
 Partido
-16
 chefe
 concelho
 uns
@@ -735,7 +697,6 @@ Grande
 realidade
 Ainda
 Mundial
-14
 exposição
 filho
 simples
@@ -749,7 +710,6 @@ técnico
 banco
 origem
 risco
-11
 tema
 cultura
 escola
@@ -786,7 +746,6 @@ operação
 alunos
 razões
 Ou
-1993
 nomeadamente
 sala
 Outubro
@@ -799,7 +758,6 @@ muita
 seguinte
 data
 áreas
-13
 Santa
 sábado
 militares
@@ -814,15 +772,12 @@ alta
 carta
 Isto
 sejam
-24
 manter
 encontrar
 serem
 prática
-1992
 resto
 recursos
-17
 senhor
 vir
 Cavaco
@@ -849,12 +804,10 @@ trabalhar
 Casa
 declarações
 sei
-100
 propostas
 nenhuma
 presente
 taxas
-1994
 dificuldades
 continuar
 porta
@@ -878,7 +831,6 @@ pedido
 discurso
 seguir
 modelo
-80
 luz
 negociações
 Saúde
@@ -893,7 +845,6 @@ sucesso
 elas
 cargo
 Teatro
-6
 filmes
 Internacional
 fonte
@@ -902,7 +853,6 @@ espectáculo
 levar
 sair
 comunicação
-70
 projectos
 ganhar
 jogador
@@ -919,7 +869,6 @@ começa
 filhos
 comum
 internacionais
-&
 ambiente
 terão
 próximos
@@ -953,7 +902,6 @@ votos
 entretanto
 alguém
 Igreja
-\>
 Isso
 I
 mostra
@@ -966,7 +914,6 @@ espécie
 Porque
 contas
 ONU
-1991
 contrato
 coração
 irá
@@ -1010,7 +957,6 @@ associação
 âmbito
 hipótese
 saída
-8
 tratamento
 comunidade
 cultural
@@ -1024,7 +970,6 @@ pagamento
 actualmente
 armas
 Eduardo
-22
 te
 imagens
 aquilo
@@ -1034,11 +979,9 @@ diversos
 bola
 velho
 Real
-7
 nesse
 livros
 deveria
-19
 voltou
 crime
 Almeida
@@ -1052,7 +995,6 @@ tivesse
 Grupo
 esquerda
 direita
-21
 investigação
 lugares
 Londres
@@ -1060,7 +1002,6 @@ agência
 Durante
 viu
 Alberto
-1995
 professores
 Santo
 uso
@@ -1150,14 +1091,10 @@ diferença
 passo
 cidades
 consumo
-200
 rio
 alemão
 Polícia
 fundos
-90
-<personagem>
-</personagem>
 pais
 restantes
 dúvidas
@@ -1167,12 +1104,9 @@ críticas
 peso
 Mesmo
 acima
-23
-1990
 Cardoso
 Clinton
 europeus
-“
 realizar
 refere
 Segurança
@@ -1259,7 +1193,6 @@ vamos
 acontece
 Nuno
 daquela
-\<
 títulos
 pior
 combate
@@ -1277,8 +1210,6 @@ Pelo
 públicas
 confiança
 volume
-28
-9
 fazendo
 entrou
 aumentar
@@ -1336,7 +1267,6 @@ trata
 unidade
 expressão
 máximo
-27
 jornada
 continuam
 câmara
@@ -1349,7 +1279,6 @@ precisa
 nessa
 processos
 regresso
-500
 década
 torno
 Washington
@@ -1361,7 +1290,6 @@ tendência
 hospital
 ausência
 Castro
-26
 Joaquim
 vítimas
 Enquanto
@@ -1434,7 +1362,6 @@ acontecer
 obter
 juros
 Taça
-1996
 Fernandes
 agentes
 representa
@@ -1449,7 +1376,6 @@ entidades
 inquérito
 francesa
 desemprego
-1º
 dada
 Bolsa
 general
@@ -1495,7 +1421,6 @@ tradição
 perigo
 igual
 ganhou
-300
 dívida
 exterior
 Mendes
@@ -1506,7 +1431,6 @@ vive
 mau
 lançamento
 comportamento
-31
 destino
 Defesa
 Lima
@@ -1537,7 +1461,6 @@ cenário
 dólar
 ideias
 Vale
-1989
 membro
 diretor
 apresentou
@@ -1578,7 +1501,6 @@ David
 Marcelo
 margem
 Está
-29
 som
 km
 financeira
@@ -1603,13 +1525,11 @@ História
 marido
 Vítor
 acabar
-21h30
 aspectos
 instalação
 Pois
 precisamente
 estudos
-35
 bens
 Esse
 nossas
@@ -1637,7 +1557,6 @@ influência
 órgãos
 cem
 leitura
-—
 garante
 Orçamento
 manutenção
@@ -1773,10 +1692,8 @@ referiu
 ilha
 distância
 níveis
-94
 finais
 Bruxelas
-1997
 Às
 freguesia
 acto
@@ -1958,8 +1875,6 @@ concerto
 características
 Outro
 resistência
-45
-400
 clara
 aberta
 sistemas
