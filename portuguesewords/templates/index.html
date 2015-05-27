@@ -45,7 +45,7 @@
                                 <tr>
                                     <td class="col-md-2">Translation:</td>
                                     <td>
-                                        <a href="#" editable-text="word.english">// word.english || "empty" //</a>
+                                        <a href="#" editable-text="word.english" onbeforesave="word.$save()">// word.english || "empty" //</a>
                                     </td>
                                 </tr>
                                 <tr>
@@ -81,13 +81,8 @@
                     "$resource",
                     function($resource) {
                         return $resource(
-                            "/words/", {},
-                            {
-                                query: {
-                                    method:'GET',
-                                    isArray: true
-                                }
-                            },
+                            "/words/:id", { id: "@id" },
+                            {},
                             {
                                 stripTrailingSlashes: false
                             }
