@@ -4,7 +4,7 @@ from flask import Flask, render_template, Response
 app = Flask(__name__)
 
 
-with open("/home/portuguesewords/mysite/words.txt", "r") as f:
+with open("/home/portuguesewords/mysite/portuguesewords/words.txt", "r") as f:
     words_str = f.read()
 
 words = []
