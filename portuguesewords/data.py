@@ -13,5 +13,6 @@ for id, word_line in enumerate(words_str.split("\n")):
     words.append({
         "id": id,
         "word": word,
-        "details": "Count in corpus: {}".format(freq)
+        "english": "",
+        "count": freq
     })
