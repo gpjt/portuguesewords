@@ -1,5 +1,8 @@
-with open("/home/portuguesewords/mysite/portuguesewords/words.txt", "r") as f:
+import os
+
+with open(os.path.join(os.path.dirname(__file__), "words.txt"), "r") as f:
     words_str = f.read()
+
 
 words = []
 for id, word_line in enumerate(words_str.split("\n")):
