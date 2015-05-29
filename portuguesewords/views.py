@@ -1,4 +1,4 @@
-from flask import render_template, request, Response
+from flask import redirect, render_template, request, Response, url_for
 import json
 
 from portuguesewords import app, db
@@ -46,4 +46,6 @@ def words_element(word_id):
 
 @app.route("/login", methods=["GET", "POST"])
 def login():
-    return render_template("login.html")
+    if request.method == 'GET':
+        return render_template('login.html')
+    return redirect(url_for('index'))
