@@ -1,12 +1,37 @@
+import os
+
 from portuguesewords import db
-from portuguesewords.data import words
 from portuguesewords.models import Word
 
-print("Deleting old data")
-Word.query.delete()
+print("Loading data from file")
 
+with open(os.path.join(os.path.dirname(__file__), "words.txt"), "r") as f:
+    words_str = f.read()
+
+
+words = []
+for id, word_line in enumerate(words_str.split("\n")):
+    if word_line == "":
+        continue
+    freq_str, word = word_line.split("\t")
+    freq = int(freq_str)
+    words.append({
+        "id": id,
+        "word": word,
+        "english": "",
+        "count": freq
+    })
+
+print("Loaded data")
+
+
+print("Deleting old data from DB")
+Word.query.delete()
+print("Deleted")
+
+print("Inserting data into DB")
 for word in words:
-    print("Adding {}".format(word["word"]))
+    print("Inserting {}".format(word["word"]))
     word_model = Word(
         word=word["word"],
         english=word["english"],
