@@ -6,7 +6,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 
-        <title>Portuguese Words</title>
+        <title>{% block title %}{% endblock %}</title>
 
         <link href="/static/bootstrap-3.3.4-dist/css/bootstrap.min.css" rel="stylesheet">
         <link href="/static/angular-xeditable-0.1.8/css/xeditable.css" rel="stylesheet">
@@ -23,6 +23,11 @@
     <body ng-app="ngWordsServices" ng-controller="ngWordsServicesController">
         <nav class="navbar navbar-default">
             <div class="container-fluid">
+                <div class="navbar-header">
+                    <a class="navbar-brand" href="/">Portuguese words</a>
+                </div>
+
+
                 <ul class="nav navbar-nav navbar-right">
                     <li><a href="{{ url_for('login') }}">Log in</a></li>
                 </ul>
