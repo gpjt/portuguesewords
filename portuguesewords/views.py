@@ -42,3 +42,8 @@ def words_element(word_id):
         json.dumps(dictify_word(word)),
         mimetype='application/json'
     )
+
+
+@app.route("/login", methods=["GET", "POST"])
+def login():
+    return render_template("login.html")
