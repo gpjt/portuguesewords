@@ -4,50 +4,61 @@
 
 {% block body %}
 
-    <h1>The top 1,000 Portuguese words, annotated</h1>
+    <div class="row">
+        <h1>The top 1,000 Portuguese words, annotated</h1>
+    </div>
 
-    <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+    <div class="row">
+        <input type="text" class="form-control col-sm-12" id="filter" ng-model="searchText" placeholder="Filter" style="width: 100%">
+    </div>
 
-        <div ng-repeat="word in words" class="panel panel-default">
-            <div class="panel-heading" role="tab" id="heading// word.id //">
-                <h4 class="panel-title">
-                    <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse// word.id //" aria-expanded="true" aria-controls="collapse// word.id //">
-                        // word.word // // word.english == "" ? "" : "&mdash; " + word.english //
-                    </a>
-                </h4>
-            </div>
-            <div id="collapse// word.id //" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading// word.id //">
-                <div class="panel-body">
-                    <table class="table table-condensed">
-                        <tr>
-                            <td class="col-md-2">Word:</td>
-                            <td>
-                                <a href="#" editable-text="word.word">// word.word || "empty" //</a>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td class="col-md-2">Translation:</td>
-                            <td>
-                                <a href="#" editable-text="word.english" onaftersave="word.$save()">// word.english || "empty" //</a>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td class="col-md-2">Notes:</td>
-                            <td>
-                                <a href="#" editable-textarea="word.notes" e-rows="7" e-cols="40" onaftersave="word.$save()">// word.notes || "empty" //</a>
-                            </td>
-                        </tr>
-                        <tr>
-                            <td class="col-md-2">Count in corpus:</td>
-                            <td>
-                                // word.count || "0" //
-                            </td>
-                        </tr>
-                    </table>
+    <div class="row">
+        &nbsp;
+    </div>
+
+    <div class="row">
+        <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+
+            <div ng-repeat="word in words | filter:searchText" class="panel panel-default">
+                <div class="panel-heading" role="tab" id="heading// word.id //">
+                    <h4 class="panel-title">
+                        <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse// word.id //" aria-expanded="true" aria-controls="collapse// word.id //">
+                            // word.word // // word.english == "" ? "" : "&mdash; " + word.english //
+                        </a>
+                    </h4>
+                </div>
+                <div id="collapse// word.id //" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading// word.id //">
+                    <div class="panel-body">
+                        <table class="table table-condensed">
+                            <tr>
+                                <td class="col-md-2">Word:</td>
+                                <td>
+                                    <a href="#" editable-text="word.word">// word.word || "empty" //</a>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="col-md-2">Translation:</td>
+                                <td>
+                                    <a href="#" editable-text="word.english" onaftersave="word.$save()">// word.english || "empty" //</a>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="col-md-2">Notes:</td>
+                                <td>
+                                    <a href="#" editable-textarea="word.notes" e-rows="7" e-cols="40" onaftersave="word.$save()">// word.notes || "empty" //</a>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="col-md-2">Count in corpus:</td>
+                                <td>
+                                    // word.count || "0" //
+                                </td>
+                            </tr>
+                        </table>
+                    </div>
                 </div>
             </div>
         </div>
-
     </div>
 {% endblock %}
 
