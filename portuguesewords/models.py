@@ -9,3 +9,4 @@ class Word(db.Model):
     word = db.Column(db.String(32))
     english = db.Column(db.String(256))
     count = db.Column(db.Integer)
+    notes = db.Column(db.String(4096))

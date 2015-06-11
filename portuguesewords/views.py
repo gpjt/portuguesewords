@@ -15,7 +15,8 @@ def dictify_word(word):
         "id": word.id,
         "word": word.word,
         "english": word.english,
-        "count": word.count
+        "notes": word.notes,
+        "count": word.count,
     }
 
 
@@ -35,6 +36,7 @@ def words_element(word_id):
     word = Word.query.filter_by(id=word_id).first()
     word.word = new_data["word"]
     word.english = new_data["english"]
+    word.notes = new_data["notes"]
     word.count = new_data["count"]
     db.session.commit()
 
